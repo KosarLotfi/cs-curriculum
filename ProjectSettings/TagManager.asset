@@ -8,6 +8,7 @@ TagManager:
   - Enemy
   - Axe
   - Spikes
+  - Heart
   layers:
   - Default
   - TransparentFX
