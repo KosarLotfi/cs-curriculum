@@ -9,6 +9,7 @@ TagManager:
   - Axe
   - Spikes
   - Heart
+  - FireBall
   layers:
   - Default
   - TransparentFX

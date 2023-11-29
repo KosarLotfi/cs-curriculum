@@ -134,4 +134,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   target: {x: 0, y: 0, z: 0}
-  timer: 2
+  pms: {fileID: 0}
+  self: {fileID: 5790822057519619805}
+  FireballCollider: {fileID: 0}
+  targetLocation: {x: 0, y: 0, z: 0}
+  LifeSpan: 0

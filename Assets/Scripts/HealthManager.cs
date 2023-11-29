@@ -43,10 +43,10 @@ public class HealthManager : MonoBehaviour
         {
             changehealth(-1);
         }
-        if (other.gameObject.CompareTag("projectile"))
+        if (other.gameObject.CompareTag("FireBall"))
         {
             changehealth(-2);
-            
+            Destroy(other.gameObject);
         }
         
     }
